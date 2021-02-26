@@ -3,6 +3,7 @@
         <access>package_private</access>
         <active>true</active>
         <api_name>x_325709_terraform.tf_config</api_name>
+        <caller_access/>
         <client_callable>false</client_callable>
         <description>Configuration Variables for Terraform Integration</description>
         <name>tf_config</name>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>provision_azure_storage_account</internal_name>
+        <label_cache>null</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Provision Azure Storage Account</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-25 04:06:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f08fdc610762201096b6f1d08c1ed031</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Provision Azure Storage Account</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_update_name>sys_hub_flow_f08fdc610762201096b6f1d08c1ed031</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-25 04:06:18</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="DELETE" query="documentkey=f08fdc610762201096b6f1d08c1ed031"/>
+    <sys_variable_value action="DELETE" query="document_key=f08fdc610762201096b6f1d08c1ed031"/>
+    <sys_flow_cat_variable_model action="DELETE" query="id=f08fdc610762201096b6f1d08c1ed031^sys_idNOT INb08fdc610762201096b6f1d08c1ed033"/>
+    <sys_flow_cat_variable_model action="DELETE">
+        <id>f08fdc610762201096b6f1d08c1ed031</id>
+        <name>Provision Azure Storage Account</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-25 04:06:18</sys_created_on>
+        <sys_id>b08fdc610762201096b6f1d08c1ed033</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-25 04:06:18</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</application>
+        <file_path/>
+        <instance_id>07799748dbc7fb4491232f17d4961986</instance_id>
+        <instance_name>dev89813</instance_name>
+        <name>sys_hub_flow_f08fdc610762201096b6f1d08c1ed031</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow"><sys_hub_flow action="INSERT_OR_UPDATE"><access>public</access><acls/><active>false</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><copied_from/><copied_from_name/><description/><internal_name>provision_azure_storage_account</internal_name><label_cache>null</label_cache><latest_snapshot/><master_snapshot/><name>Provision Azure Storage Account</name><outputs/><remote_trigger_id/><run_as>user</run_as><sc_callable>false</sc_callable><show_draft_actions>false</show_draft_actions><show_triggered_flows>false</show_triggered_flows><status>draft</status><sys_class_name>sys_hub_flow</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-25 04:06:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f08fdc610762201096b6f1d08c1ed031</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Provision Azure Storage Account</sys_name><sys_overrides/><sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package><sys_policy/><sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope><sys_update_name>sys_hub_flow_f08fdc610762201096b6f1d08c1ed031</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-25 04:06:18</sys_updated_on><type>flow</type></sys_hub_flow><sys_translated_text action="delete_multiple" query="documentkey=f08fdc610762201096b6f1d08c1ed031"/><sys_variable_value action="delete_multiple" query="document_key=f08fdc610762201096b6f1d08c1ed031"/><sys_flow_cat_variable_model action="delete_multiple" query="id=f08fdc610762201096b6f1d08c1ed031^sys_idNOT INb08fdc610762201096b6f1d08c1ed033"/><sys_flow_cat_variable_model action="INSERT_OR_UPDATE"><id>f08fdc610762201096b6f1d08c1ed031</id><name>Provision Azure Storage Account</name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-25 04:06:18</sys_created_on><sys_id>b08fdc610762201096b6f1d08c1ed033</sys_id><sys_mod_count>0</sys_mod_count><sys_scope/><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-25 04:06:18</sys_updated_on></sys_flow_cat_variable_model></record_update>]]></payload>
+        <payload_hash>1897895251</payload_hash>
+        <record_name>Provision Azure Storage Account</record_name>
+        <reverted_from/>
+        <source>6720a7010722e01096b6f1d08c1ed0e1</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-25 04:06:18</sys_created_on>
+        <sys_id>788fdc610762201096b6f1d08c1ed037</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177d75db3f80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-25 04:06:18</sys_updated_on>
+        <type>Flow</type>
+        <update_guid>b08fdc614e622010e54a2c379807ae37</update_guid>
+        <update_guid_history>b08fdc614e622010e54a2c379807ae37:1897895251</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-25 04:08:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>2650e43bce854390a7dbe1febe82cdd1</sys_id>
+        <sys_metadata>f08fdc610762201096b6f1d08c1ed031</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Provision Azure Storage Account</sys_name>
+        <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_scope_delete display_value="">45184ac6f4e54bee89dba0e0f9a529c9</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_f08fdc610762201096b6f1d08c1ed031</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_f08fdc610762201096b6f1d08c1ed031">788fdc610762201096b6f1d08c1ed037</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-25 04:08:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

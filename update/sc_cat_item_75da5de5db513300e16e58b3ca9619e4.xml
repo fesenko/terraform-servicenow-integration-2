@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <availability>on_both</availability>
         <billable>false</billable>
         <category display_value="Terraform Resources">8872832edbe033009ba2f8fdbf961937</category>
@@ -10,7 +10,9 @@
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
         <description><![CDATA[<p>Create a new workspace, queue a new run, and apply the run to provision new resources.</p>]]></description>
+        <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
+        <flow_designer_flow/>
         <group/>
         <hide_sp>false</hide_sp>
         <icon/>
@@ -56,14 +58,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-05-08 16:35:05</sys_created_on>
         <sys_id>75da5de5db513300e16e58b3ca9619e4</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Provision Resources</sys_name>
         <sys_package display_value="Terraform" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
         <sys_update_name>sc_cat_item_75da5de5db513300e16e58b3ca9619e4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-02 16:52:29</sys_updated_on>
+        <sys_updated_on>2021-02-26 02:01:11</sys_updated_on>
         <template/>
         <type>item</type>
         <use_sc_layout>false</use_sc_layout>

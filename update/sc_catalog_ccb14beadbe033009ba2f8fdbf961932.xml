@@ -30,6 +30,7 @@
         <compressed>true</compressed>
         <content_type>image/png</content_type>
         <file_name>desktop_image</file_name>
+        <hash/>
         <image_height>256</image_height>
         <image_width>256</image_width>
         <size_bytes>11322</size_bytes>
